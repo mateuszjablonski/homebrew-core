@@ -1105,6 +1105,7 @@ huggingface-cli
 hugo
 hut
 hwatch
+hwloc
 hy
 hyperfine
 hypre
