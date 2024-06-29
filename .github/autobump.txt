@@ -1378,6 +1378,7 @@ libomp
 libopenmpt
 liboqs
 libpano
+libpeas
 libphonenumber
 libpipeline
 libplctag
